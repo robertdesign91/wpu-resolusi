@@ -1,2 +1,2 @@
 # rd91-resolusi
-Repository untuk menyimpan rencana WPU kedepannya
+Repository untuk menyimpan rencana RD91 kedepannya
